@@ -1,0 +1,5 @@
+flask
+redis
+sentence-transformers
+SQLAlchemy
+psycopg2-binary
